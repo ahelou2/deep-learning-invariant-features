@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 65
+datasets
+dump
+filtersBank
+experiments
+misc
+preprocess_data
+test
+
+
+END
